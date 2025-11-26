@@ -5,7 +5,7 @@ Lider w dziedzinie zaawansowanych technologii, systemów integracyjnych i innowa
 Od momentu powstania realizujemy wizję przyszłości, w której technologia stanowi fundament wszelkich działań strategicznych i operacyjnych. Nasze produkty projektujemy i testujemy z myślą o maksymalnej **niezawodności**, **wydajności** oraz zgodności z najwyższymi standardami bezpieczeństwa.
 
 <div align="center">
-  <img src="../imgs/Image_May_6-2025-07-40-34_PM_V2.png" alt="ArmaTek Logo/Baner"> 
+  <img src="../imgs/armatek-logo-neon-Image_May_6-2025-07-40-34_PM_V2.png" alt="ArmaTek Logo/Baner"> 
 </div>
 ---
 

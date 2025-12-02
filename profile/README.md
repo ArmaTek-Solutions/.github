@@ -27,4 +27,4 @@ Zaufanie naszych klientów to efekt nieustannego rozwoju, rygorystycznych testó
 
 W ArmaTek wiemy, że przyszłość to nie miejsce – to stan umysłu. Nasza technologia jest przygotowana, aby sprostać wyzwaniom dzisiejszego świata i tworzyć fundamenty jutra.
 
-➡️ **Odwiedź naszą pełną stronę internetową, aby dowiedzieć się więcej o naszych rozwiązaniach:** [https://www.armatek.ovh/content/4-about-us](https://www.armatek.ovh/content/4-about-us)
+➡️ **Odwiedź naszą pełną stronę internetową, aby dowiedzieć się więcej o naszych rozwiązaniach:** [https://www.armatek.pl/content/4-about-us](https://www.armatek.pl/content/4-about-us)
